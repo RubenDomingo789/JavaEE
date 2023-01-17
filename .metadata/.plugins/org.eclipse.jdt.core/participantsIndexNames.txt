@@ -1,9 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\alumno\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\454776356.index
-\ConfiguradorCoches\src\main\java
-C:\Users\alumno\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\319321301.index
-\Prueba\src\main\java
-C:\Users\alumno\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2141014141.index
-\TomCatPrueba\src\main\java
-C:\Users\alumno\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1117687827.index
-\EjercicioMVC\src\main\java
